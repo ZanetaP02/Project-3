@@ -1,14 +1,14 @@
 ﻿skills,less than 3 years,3-5 years,6-10 years,10+years
-machine learning,81.9,86.8,79.3,92.3,85.08
-statistics,79.2,77.4,79.3,80.8,79.18
-communition skills,68.1,73.6,75.9,80.8,74.60 
-programming knowledge,66.7,75.5,69.0,69.2,70.10
-data visualisation,61.1,66.0,62.1,57.7,61.73
-data wrangling and pre-processing,62.5,49.1,51.7,53.8,54.28
-business acumen,37.5,45.3,41.4,38.5,40.68
-deep learning,50.0,43.4,51.7,46.2,47.83
-presentation skills,34.7,37.7,41.4,38.5,38.08
-domain expertise,38.9,32.1,27.6,42.3,35.23
-linear algebra & calculus,33.3,37.7,48.3,34.6,38.48
-model deployment,22.2,18.9,20.7,30.8,23.15
-big data,36.1,35.8,44.8,30.8,36.88
+machine learning,81.9,86.8,79.3,92.3
+statistics,79.2,77.4,79.3,80.8,
+communition skills,68.1,73.6,75.9,80.8
+programming knowledge,66.7,75.5,69.0,69.2
+data visualisation,61.1,66.0,62.1,57.7
+data wrangling and pre-processing,62.5,49.1,51.7,53.8
+business acumen,37.5,45.3,41.4,38.5
+deep learning,50.0,43.4,51.7,46.2
+presentation skills,34.7,37.7,41.4,38.5
+domain expertise,38.9,32.1,27.6,42.3
+linear algebra & calculus,33.3,37.7,48.3,34.6
+model deployment,22.2,18.9,20.7,30.8
+big data,36.1,35.8,44.8,30.8
